@@ -16,7 +16,7 @@ Projek ini mengimplementasikan **Eigenface-based Face Recognition** menggunakan 
 
 | Nama                 | NIM / ID        |
 | -------------------  | --------------- |
-| Mufti Faris Murtadhi | L0124133        |
+| Mufti Faris Murtadho | L0124133        |
 | Yashif Victoriawan   | L0124124        |
 | Yusran Rizqi Laksono | L0124125        |
 
@@ -55,7 +55,7 @@ Projek ini mengimplementasikan **Eigenface-based Face Recognition** menggunakan 
 └── docs/
     ├── architecture.md
     └── user_guide.md
-
+```
 
 
 #*Untuk isi folder dari "test" diperlukan mendownload dari https://www.kaggle.com/datasets/hereisburak/pins-face-recognition , yang berisi basis data wajah yang dapat diunduh.
