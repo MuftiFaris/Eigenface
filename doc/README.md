@@ -11,8 +11,7 @@ streamlit run src/main_app.py
 
 ## Struktur Folder
 - `src/`: Kode Python utama
-- `data/`: Dataset dan file uji
-- `test/`: Eksperimen
+- `test/`: Dataset dan file uji
 - `doc/`: Laporan
 
 ---
