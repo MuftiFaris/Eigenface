@@ -16,6 +16,3 @@ streamlit run src/main_app.py
 
 ---
 Selesai. Semua file telah disusun dan siap digunakan.
-
-pip install -r requirements.txt
-streamlit run src/main_app.py
