@@ -37,25 +37,64 @@ This project implements **Eigenface-based Face Recognition** in **Python** with 
 
 ---
 
-## 📁 Struktur Proyek
+## 📁 Structure Project
 
 ```text
-[repo-root]/
-├── README.md
+Eigenface/
 ├── requirements.txt
-├── setup.py
 ├── src/
 │   ├── main.py
-│   ├── face_recognition.py
-│   ├── dataset_loader.py
-│   └── utils.py
-├── data/
-│   ├── images/
-│   └── models/
+│   ├── preprocessing.py
+│   ├── distance.py
+│   ├── __init__.py
+│   ├── eigenface.py
+│   ├── utils.py
+│   └── __pycache__/
+│       ├── preprocessing.cpython-312.pyc
+│       ├── distance.cpython-312.pyc
+│       ├── eigenface.cpython-312.pyc
+│       └── utils.cpython-312.pyc
+├── test/
+│   ├── images1 /
+│   │   ├── img1.1 
+│   │   ├── img1.2
+│   │   ├── img1.3
+│   │   ├── img1.4
+│   │   └── img1....
+│   ├── images2 /
+│   │   ├── img2.1 
+│   │   ├── img2.2
+│   │   ├── img2.3
+│   │   ├── img2.4
+│   │   └── img2....
+│   ├── images3 /
+│   │   ├── img3.1 
+│   │   ├── img3.2
+│   │   ├── img3.3
+│   │   ├── img3.4
+│   │   └── img3....
+│   ├── images4 /
+│   │   ├── img4.1 
+│   │   ├── img4.2
+│   │   ├── img4.3
+│   │   ├── img4.4
+│   │   └── img4....
+│   ├── images5 /
+│   │   ├── img5.1 
+│   │   ├── img5.2
+│   │   ├── img5.3
+│   │   ├── img5.4
+│   │   └── img5....
+│   └── images../
+│       ├── img...1 
+│       ├── img...2
+│       ├── img...3
+│       ├── img...4
+│       └── img......
 └── docs/
-    ├── architecture.md
-    └── user_guide.md
+    └── README.md 
 ```
+The images and img folders are just examples, use the folders according to your path that contains the photo files.
 
 ---
 
