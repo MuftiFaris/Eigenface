@@ -94,10 +94,11 @@ You can setup your project by cloning this repository and install the libraries 
 
 ---
 
-## 📬 Contact
+## 👤 Author
 “I hope this project helps you grasp eigenface concepts—feel free to send feedback!”
 
-💼 LinkedIn: [Mufti Faris Murtadho - LinkedIn](https://www.linkedin.com/in/mufti-faris/)
+💼 LinkedIn: [Mufti Faris Murtadho - LinkedIn](https://www.linkedin.com/in/mufti-faris/)</br>
+📍 Informatika 2024, Universitas Sebelas Maret  
 
 ---
 
