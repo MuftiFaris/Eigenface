@@ -98,7 +98,7 @@ You can setup your project by cloning this repository and install the libraries 
 “I hope this project helps you grasp eigenface concepts—feel free to send feedback!”
 
 
-LinkedIn <a href="www.linkedin.com/in/mufti-faris" target="www.linkedin.com/in/mufti-faris">Click Here</a>
+LinkedIn <a href="www.linkedin.com/in/mufti-faris" target="">Click Here</a>
 
 ---
 
