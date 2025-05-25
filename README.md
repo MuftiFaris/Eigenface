@@ -1,4 +1,4 @@
-# <p align="center">🚀 AI Facerecognition Eigenface</p>
+# <p align="center">🚀 FaceRecognition Eigenface with Streamlit</p>
 
 <p align="center">
   <a href="[URL_DEMO]" target="_blank">🔍 Live Demo Program</a> ·
@@ -6,15 +6,15 @@
 
 ---
 
-## 📖 Deskripsi Singkat
+## 📖 Brief Description
 
-Projek ini mengimplementasikan **Eigenface-based Face Recognition** menggunakan **Python**, **OpenCV**, dan **Streamlit** untuk antarmuka web interaktif. Kamu bisa meng-upload foto, melihat hasil preproses, dan melakukan pengenalan wajah real-time lewat browser.
+This project implements **Eigenface-based Face Recognition** in **Python** with an interactive **Streamlit** web interface. You can upload a photo, preview preprocessing steps, and perform real-time face recognition right in your browser. 
 
 ---
 
-## 👥 Anggota Tim
+## 👥 Team Members
 
-| Nama                 | NIM / ID        |
+| Name                 | NIM / ID        |
 | -------------------  | --------------- |
 | Mufti Faris Murtadho | L0124133        |
 | Yashif Victoriawan   | L0124124        |
@@ -22,18 +22,18 @@ Projek ini mengimplementasikan **Eigenface-based Face Recognition** menggunakan 
 
 ---
 
-## 🧰 Teknologi yang Digunakan
+## 🧰 Technologies Used
 
-- **Bahasa Pemrograman**: Python 3.9+  
-- **Libraries**:  
+- **Language**: Python 3.9+  
+- **Libraries & Frameworks**:  
   - OpenCV  
   - NumPy  
   - scikit-learn  
   - Streamlit  
   - Pillow  
-- **Lainnya**:  
+- **Tools & Platforms**:  
   - Git & GitHub  
-  - CI/CD (GitHub Actions)
+  - GitHub Actions (CI/CD)
 
 ---
 
@@ -57,5 +57,50 @@ Projek ini mengimplementasikan **Eigenface-based Face Recognition** menggunakan 
     └── user_guide.md
 ```
 
+---
 
-#*Untuk isi folder dari "test" diperlukan mendownload dari https://www.kaggle.com/datasets/hereisburak/pins-face-recognition , yang berisi basis data wajah yang dapat diunduh.
+## ⚙️ Setup Instructions
+
+You can setup your project by cloning this repository and install the libraries above.
+
+1. (Optional but recommended) Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # macOS / Linux
+   venv\Scripts\activate      # Windows
+
+2. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   Or, manually install each package:
+   ```bash
+   pip install opencv-python
+   pip install numpy
+   pip install scikit-learn
+   pip install streamlit
+   pip install pillow
+   ```
+   💡 Make sure you're using Python 3.9 or later to avoid compatibility issues.
+
+3. How to Run the App
+   ```bash
+   streamlit run main.py
+   ```
+   You will see the web interface where you can:
+   Upload a face image
+   View preprocessing steps
+   Get prediction results using Eigenface algorithm
+
+---
+
+## 📬 Contact
+“I hope this project helps you grasp eigenface concepts—feel free to send feedback!”
+
+
+LinkedIn <a href="www.linkedin.com/in/mufti-faris" target="www.linkedin.com/in/mufti-faris">Click Here</a>
+
+---
+
+## NOTE
+For the contents of the "test" folder it is necessary to download from https://www.kaggle.com/datasets/hereisburak/pins-face-recognition , which contains a downloadable face database.
