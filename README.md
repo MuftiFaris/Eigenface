@@ -54,6 +54,12 @@ Eigenface/
 │       ├── distance.cpython-312.pyc
 │       ├── eigenface.cpython-312.pyc
 │       └── utils.cpython-312.pyc
+├── ss/
+│   ├── main.png
+│   ├── result.png
+│   ├── Eigenface.png
+│   ├── Variance.png
+│   └── Vektor.png
 ├── test/
 │   ├── images1 /
 │   │   ├── img1.1 
@@ -130,6 +136,29 @@ You can setup your project by cloning this repository and install the libraries 
    Upload a face image
    View preprocessing steps
    Get prediction results using Eigenface algorithm
+
+---
+
+## Screenshots
+### Figure 1
+MAIN MENU
+![Figure 1: Main Menu](ss/main.png)
+
+### Figure 2
+EIGENFACE
+![Figure 2: Result](ss/Eigenface.png)
+
+### Figure 3
+VARIANCE & MEAN FACE
+![Figure 3: Result](ss/Variance.png)
+
+### Figure 4
+VEKTOR
+![Figure 4: Result](ss/Vektor.png)
+
+### Figure 5
+RESULT
+![Figure 5: Result](ss/result.png)
 
 ---
 
