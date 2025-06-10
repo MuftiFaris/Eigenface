@@ -5,7 +5,7 @@ pip install -r requirements.txt
 ```
 2. Jalankan aplikasi:
 ```
-streamlit run src/main_app.py
+streamlit run src/main.py
 ```
 3. Masukkan path dataset dan gambar wajah untuk uji.
 
