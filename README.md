@@ -1,7 +1,7 @@
 # <p align="center">🚀 FaceRecognition Eigenface with Streamlit</p>
 
 <p align="center">
-  <a href="[URL_DEMO]" target="_blank">🔍 Live Demo Program</a> ·
+  <a href="https://youtu.be/KHWTP1QPApA" target="_blank">🔍 Live Demo Program</a> ·
 </p>
 
 ---
